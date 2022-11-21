@@ -12,7 +12,7 @@ tsla_fin_data = Scrapper('xnas','tsla','financials')
 tsla_fin_data.get_financial_reports()
 
 <!-- new folder will be created to store the reports -->
-data/xnas/tsla/Balance Sheet_Annual_As Originally Reported.xls
+data/xnas/tsla/Balance Sheet_Annual_As Originally Reported.xls /n
 data/xnas/tsla/Cash Flow_Annual_As Originally Reported.xls
 data/xnas/tsla/Income Statement_Annual_As Originally Reported.xls
 
